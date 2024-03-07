@@ -1,2 +1,2 @@
 # ansibleHD
-ansible for HD
+Ein Repo um Ansible Scripte abzulegen
